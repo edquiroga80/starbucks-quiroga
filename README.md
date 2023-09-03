@@ -29,4 +29,4 @@ function ejemplo() {
   console.log("Esto es un bloque de código");
 }
 `````
-![Logo de mi proyecto](images/logo.png)
+![Logo de mi proyecto](images/card-1.png)
